@@ -34,10 +34,10 @@ results = model.predict("/path-to-data", save=True, imgsz=320)
 <br>
 <h2>Inference on new data</h2>
 <p align="center">
-  <img src="/runs/inference-6.png" width="400" hspace="20"/>
-  <img src="/runs/inference-2.png" width="400" hspace="20"/>
+  <img src="/runs/inference-6.png" width="200" height="200" hspace="20"/>
+  <img src="/runs/inference-2.png" width="200" height="200" hspace="20"/>
 </p>
 
 <p align="center">
-  <img src="/runs/inf3.gif" width="600" height="400" />
+  <img src="/runs/inf3.gif" width="350" height="350" />
 </p>
